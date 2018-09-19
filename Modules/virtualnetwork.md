@@ -27,6 +27,8 @@ In this lab you will create a virtual network that will be used to host virtual 
 19. In the virtual network blade select Activity Logs
 20. In the Activity Log select Create or Update Virtual Network
 
+![alt text](/Images/azureactivitylogs.png "Azure Activity Logs")
+
 * Note the Azure Activity Logs audit the service actions like creating networks, VMs, etc.
 
 21. Select the JSON tab in the lower portion of the browser

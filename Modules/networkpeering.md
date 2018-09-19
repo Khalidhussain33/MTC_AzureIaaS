@@ -25,6 +25,8 @@ In this lab, is to connect the 2 newly created networks via peering.
 
 * Note: It might take a second, but the screen should update the peering status to connected
 
+![alt text](/Images/networkpeering.png "Azure Activity Logs")
+
 15. Close all open blade
 
 

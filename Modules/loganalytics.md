@@ -35,6 +35,9 @@ In this lab, you will setup Azure Log analytics which allow you to monitor syste
 12. At the top of the screen Select the + icon to open a new query page
 13. In the top right click the folder icon
 14. Expand Saved Queries and expand Workshop
+
+![alt text](/Images/queryexplorer.png "Azure Activity Logs")
+
 15. Double click the workshop query
 16. Select the run button
 
