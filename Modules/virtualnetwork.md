@@ -38,4 +38,4 @@ In this lab you will create a virtual network that will be used to host virtual 
 22. Close all blades
 
 
-Next Module [Virtual Network Peering](Modules/networkpeering.md)
+Next Module [Virtual Network Peering](networkpeering.md)

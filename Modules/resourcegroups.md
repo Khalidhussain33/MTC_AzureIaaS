@@ -53,4 +53,4 @@ In this lab you will create a Resource Group that will be utilized throughout th
 30. Close all open blades
 
 
-Next Module [Create a Virtual Network](Modules/virtualnetwork.md)
+Next Module [Create a Virtual Network](virtualnetwork.md)

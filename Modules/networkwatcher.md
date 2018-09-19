@@ -58,4 +58,4 @@ In this lab is to capture packets to your virtual machine, use the new traffic a
 
 * Note here you can see your network consumptions and current limits.
 
-Next Module [Connecting to a Virtual Machines](Modules/connectingtovm.md)
+Next Module [Connecting to a Virtual Machines](connectingtovm.md)

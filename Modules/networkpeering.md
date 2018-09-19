@@ -30,4 +30,4 @@ In this lab, is to connect the 2 newly created networks via peering.
 15. Close all open blade
 
 
-Next Module [Deploying VM's](Modules/deployvm.md)
+Next Module [Deploying VM's](deployvm.md)

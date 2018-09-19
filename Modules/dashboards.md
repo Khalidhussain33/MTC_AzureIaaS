@@ -18,4 +18,4 @@ In this lab, you will create a customer azure dashboard
 9. In the top left input ResStudentX (where X is your student number) for the dashboard name
 10. Select Done customizing
 
-Next Module [Network Security Groups](Modules/netwroksecuritygroups.md)
+Next Module [Network Security Groups](networksecuritygroups.md)

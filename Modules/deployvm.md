@@ -73,4 +73,4 @@ In this lab, you will deploy two virtual machines into a Resource Group and depl
 56. In the Create blade review your selections click Create
 
 
-Next Module [Using Quickstart Templates](Modules/quickstarttemplate.md)
+Next Module [Using Quickstart Templates](quickstarttemplate.md)

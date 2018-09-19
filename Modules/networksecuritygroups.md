@@ -27,4 +27,4 @@ In this lab, you will configure NSG policies to allow port 80 inbound to your vi
 17. In the Inbound security rules blade validate the new rule has been created.
 18. close all the blades
 
-Next Module [Creating an Azure Storage Account](Modules/storageaccount.md)
+Next Module [Creating an Azure Storage Account](storageaccount.md)

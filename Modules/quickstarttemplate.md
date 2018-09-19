@@ -32,4 +32,4 @@ https://github.com/Azure/azure-quickstart-templates/tree/master/anti-malware-ext
 
 * Note we pulled a template from the gallery and with a single click deployment a virtual machine and the virtual network
 
-Next Module [Navigating VM Properties](Modules/vmproperties.md)
+Next Module [Navigating VM Properties](vmproperties.md)

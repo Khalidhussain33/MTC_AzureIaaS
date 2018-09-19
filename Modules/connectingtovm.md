@@ -73,4 +73,4 @@ NOTE: You must complete the previous lab before you perform this lab.
 
 39. Close the RPD window
 
-Next Module [Setup and Configure Log Analytics](Modules/loganaltyics.md)
+Next Module [Setup and Configure Log Analytics](loganaltyics.md)

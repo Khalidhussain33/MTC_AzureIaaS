@@ -81,4 +81,4 @@ This will list your available commands
 42. In the console window type “id”
 43. Close all blades.
 
-Next Module [Create Custom Dashboards](Modules/dashboards.md)
+Next Module [Create Custom Dashboards](dashboards.md)
