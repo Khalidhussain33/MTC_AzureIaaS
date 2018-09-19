@@ -42,4 +42,4 @@ In this lab, you will configure Azure Security Center and look at the various ca
 
 24. Close all blades
 
-Next Module [Automate Backups for VM's](Modules/backupvm.md)
+Next Module [Automate Backups for VM's](backupvm.md)
