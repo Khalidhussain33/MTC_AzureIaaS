@@ -41,3 +41,5 @@ In this lab, you will configure Azure Security Center and look at the various ca
 *Note you can now connect as the JIT request opened RDP for a time period and then will be disabled.
 
 24. Close all blades
+
+Next Module [Automate Backups for VM's](Modules/backupvm.md)

@@ -71,3 +71,6 @@ In this lab, you will deploy two virtual machines into a Resource Group and depl
 54. In the Settings blade select Eastern Time (UTC -5) under the Shutdown time
 55. In the Settings blade select OK
 56. In the Create blade review your selections click Create
+
+
+Next Module [Using Quickstart Templates](Modules/quickstarttemplate.md)

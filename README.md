@@ -33,13 +33,12 @@ One of the services offered by Azure is Infrastructure as a Service (IaaS) this 
 * [Navigating VM Properties](Modules/vmproperties.md)
 * [Create Custom Dashboards](Modules/dashboards.md)
 * [Network Security Groups](Modules/netwroksecuritygroups.md)
-* [Connecting to a Virtual Machines](Modulesconnectingtovm.md)
 
 ## Module 4 - Azure Storage Accounts ##
 
 Azure storage accounts can be used for a number of capabilities backups, files shares, etc
 
-* [Creating an Azure Storage Accounte](Modules/storageaccount.md)
+* [Creating an Azure Storage Account](Modules/storageaccount.md)
 
 ## Module 5 - Network Analytics ##
 
@@ -48,18 +47,24 @@ Network watcher is an Azure service that allow you to capture network traffic to
 * [Traffic Analytics](Modules/trafficanalytics.md)
 * [Network Watcher](Modules/networkwatcher.md)
 
-## Module 6 - Securing and Monitoring Azure Resources ##
+## Module 6 - Connecting to a VM in Azure ##
+
+One of the services offered by Azure is Infrastructure as a Service (IaaS) this provides the ability to create and manages virtual machines. Microsoft fully supports a wide range of virtual appliances and operating systems.
+
+* [Connecting to a Virtual Machines](Modules/connectingtovm.md)
+
+## Module 7 - Securing and Monitoring Azure Resources ##
 
 As assets move to the cloud organization have concerns around security and monitoring. Microsoft Azure had a number of capabilities that can provide organizations a piece of mind knowing their cloud assets are being protected and that they have full insights into those assets.
 
 * [Setup and Configure Log Analytics](Modules/loganaltyics.md)
 * [Azure Security Center](Modules/azuresecuritycenter.md)
 
-## Module 7 - Azure Recovery Services ##
+## Module 8 - Azure Recovery Services ##
 
 With the Site Recovery service, organizations can use the cloud for a number of recovery services. Azure works with a number of backup solutions to allow you to store backups in the cloud and use the cloud for site recovery with VM replication.
 
-* [Automate Backups for VM's](Modules/backupvmmd.md)
+* [Automate Backups for VM's](Modules/backupvm.md)
 
 ## Contributing ##
 

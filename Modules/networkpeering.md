@@ -26,3 +26,6 @@ In this lab, is to connect the 2 newly created networks via peering.
 * Note: It might take a second, but the screen should update the peering status to connected
 
 15. Close all open blade
+
+
+Next Module [Deploying VM's](Modules/deployvm.md)

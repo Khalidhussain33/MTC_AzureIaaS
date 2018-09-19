@@ -29,3 +29,5 @@ The purpose of this lab is you show you how to enable Traffic analysis for your 
 16. Under Azure DCs communicating with East 2 select “see more”
 *Note this bring up the Kusto query lang and lets you do deep analysis
 1. Close all blades
+
+Next Module [Network Watcher](Modules/networkwatcher.md)

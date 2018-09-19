@@ -44,3 +44,5 @@ In this lab, you will setup Azure Log analytics which allow you to monitor syste
 18. If prompted select Yes
 19. In the stack column select the drop down menu and choose pie chart
 20. Close all blades
+
+Next Module [Azure Security Center](Modules/azuresecuritycenter.md)

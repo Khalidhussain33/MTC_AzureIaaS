@@ -34,3 +34,6 @@ In this lab you will create a virtual network that will be used to host virtual 
 * Note this show the Json code that is used to perform that task, this code could be used to create a template in the future.
 
 22. Close all blades
+
+
+Next Module [Virtual Network Peering](Modules/networkpeering.md)

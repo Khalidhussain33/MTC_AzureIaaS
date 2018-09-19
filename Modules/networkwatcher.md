@@ -57,3 +57,5 @@ In this lab is to capture packets to your virtual machine, use the new traffic a
 32. In the Network subscription limit blade in the location field select East US 2 from the drop down
 
 * Note here you can see your network consumptions and current limits.
+
+Next Module [Connecting to a Virtual Machines](Modules/connectingtovm.md)

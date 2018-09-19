@@ -51,3 +51,6 @@ In this lab you will create a Resource Group that will be utilized throughout th
 29. In the Assign Policy blade select **Assign**
 
 30. Close all open blades
+
+
+Next Module [Create a Virtual Network](Modules/virtualnetwork.md)

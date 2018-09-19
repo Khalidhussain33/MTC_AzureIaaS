@@ -72,3 +72,5 @@ NOTE: You must complete the previous lab before you perform this lab.
 *Note this is the packet capture from the virtual machine that we configured during the network watcher section
 
 39. Close the RPD window
+
+Next Module [Setup and Configure Log Analytics](Modules/loganaltyics.md)

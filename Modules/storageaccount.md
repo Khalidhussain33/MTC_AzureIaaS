@@ -18,3 +18,5 @@ In this lab is to create a storage account that will be used to store the NSG fl
 8. Under Resource Groups select the drop down and select ResStudentX (where X is your assigned student number).
 9. In the Create storage account blade validate East US 2 is selected for the location
 10. In the Create storage account blade select Create
+
+Next Module [Traffic Analytics](Modules/trafficanalytics.md)

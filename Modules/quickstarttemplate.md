@@ -31,3 +31,5 @@ https://github.com/Azure/azure-quickstart-templates/tree/master/anti-malware-ext
 17. In the Template blade under terms and conditions check the box “I agree to the terms and conditions stated above”  Purchase
 
 * Note we pulled a template from the gallery and with a single click deployment a virtual machine and the virtual network
+
+Next Module [Navigating VM Properties](Modules/vmproperties.md)

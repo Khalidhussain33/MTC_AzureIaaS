@@ -17,3 +17,5 @@ In this lab, you will create a customer azure dashboard
 8. On each VM metric tile right click and select 4X2
 9. In the top left input ResStudentX (where X is your student number) for the dashboard name
 10. Select Done customizing
+
+Next Module [Network Security Groups](Modules/netwroksecuritygroups.md)

@@ -80,3 +80,5 @@ Here you can see the IP address of your virtual machine and various other inform
 This will list your available commands
 42. In the console window type “id”
 43. Close all blades.
+
+Next Module [Create Custom Dashboards](Modules/dashboards.md)
