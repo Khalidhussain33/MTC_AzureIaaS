@@ -57,7 +57,7 @@ One of the services offered by Azure is Infrastructure as a Service (IaaS) this 
 
 As assets move to the cloud organization have concerns around security and monitoring. Microsoft Azure had a number of capabilities that can provide organizations a piece of mind knowing their cloud assets are being protected and that they have full insights into those assets.
 
-* [Setup and Configure Log Analytics](Modules/loganaltyics.md)
+* [Setup and Configure Log Analytics](Modules/loganalytics.md)
 * [Azure Security Center](Modules/azuresecuritycenter.md)
 
 ## Module 8 - Azure Recovery Services ##
