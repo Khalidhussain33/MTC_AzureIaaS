@@ -6,55 +6,68 @@ In this lab you will create a virtual network that will be used to host virtual 
 
 **Estimated time: 10 min**
 
-1. In the Azure portal, click **Create** a resource  **Networking > Virtual Network**
+1.	In the Azure Dashboard select your Resource Group ResStudentX (where X is your assigned student number).
+2.	In the Resource Group blade select Add at the top of the blade.
+3.	Select the Windows server 2016 datacenter icon.
+*Note you may need to search for the VM gallery item. Input Windows Server 2016 in the search bar.
+4.	In the Windows 2016 datacenter blade validate the drop down menu under Select a deployment model is set to Resource Manager --> Create
+5.	In the Create a Virtual Machine blade under Resource Group select the drop down menu and select ResStudentX (where X is your student number).
+6.	In the Create a Virtual Machine  blade in the Virtual Machine Name Field type ResWebXA  (where X is your student number) in the Name field. 
+7.	In the Create a Virtual Machine  blade in the Availablity options use the drop down menu and select Availability Zone
+8.	In the Create a Virtual Machine  blade in the Availability Zone section use the drop down menu and select 1.
+9.	In the Create a Virtual Machine  blade in the Size field select Change Size
+10.	In the Choose a size blade select D2S_V3 Standard  icon.
+11.	In the Choose a size blade click the Select icon at the bottom of the blade.
+12.	In the Create a Virtual Machine  blade in the User Name Field type StudentX (where X is your student number).
+13.	In the Create a Virtual Machine  blade in the Password field and Confirim Password field type P@ssword2018 .
+14.	In the Create a Virtual Machine  blade select the Radius button Allow selected ports
+15.	In the Create a Virtual Machine  blade in the select inbound ports use the drop down menu and select RDP
+16.	In the Create a Virtual Machine  blade select the Radius button Yes in the Save Money section
+17.	Check the box to confirm
+18.	In the Create a Virtual Machine  blade select Networking from the top menu 
+19.	In the Create a Virtual Machine  blade in the Virtual Network section use the drop down men and select StudentX-Vnet1 (where X is your assigned student number). 
+20.	In the Create a Virtual Machine  blade in the Subnet section use the drop down men and select StudentX-Sub1 (where X is your assigned student number). 
+21.	In the Create a Virtual Machine  blade select Management
+22.	In the Create a Virtual Machine  blade in the  Auto-Shutdown section select the Raius button On
+23.	In the Time Zone section select Eastern Time (-5 UTC) 
+24.	In the Create a Virtual Machine  blade select Review + Create
+25.	In the Create a Virtual Machine  blade review your selections click Create
+26.	In the Create blade review your settings and select Create 
+27.	Close any open blades
+28.	From the Azure Dashboard select Create a resource
+29.	In the New blade select Compute 
+30.	In the Compute blade select Windows Server 2016
+31.	In the Create a Virtual Machine blade under Resource Group select the drop down menu and select ResStudentX (where X is your student number).
+32.	In the Create a Virtual Machine  blade in the Virtual Machine Name Field type ResWebXB (where X is your student number) in the Name field. 
+33.	In the Create a Virtual Machine  blade  in the Region section use the drop down menu and select Japan East
+34.	In the Create a Virtual Machine  blade in the User Name Field type StudentX (where X is your student number).
+35.	In the Create a Virtual Machine  blade in the Password field and Confirim Password field type P@ssword2018 .
+36.	In the Create a Virtual Machine  blade select Review + Create
+*note you will get an error because we have a policy that restricts the region
+37.	Select the Red exclamation mark
+*This will show you the policy that is stopping the deployment
+38.	Close the error page
+39.	In the Create a Virtual Machine  blade select Basics from the top menu
+40.	In the Create a Virtual Machine  blade  in the Region section use the drop down menu and select East US 2
+41.	In the Create a Virtual Machine  blade in the Availablity options use the drop down menu and select Availability Zone
+42.	In the Create a Virtual Machine  blade in the Availability Zone section use the drop down menu and select 2.
+43.	In the Create a Virtual Machine  blade in the Size field select Change Size
+44.	In the Choose a size blade select D2S_V3 Standard  icon.
+45.	In the Choose a size blade click the Select icon at the bottom of the blade.
+46.	In the Create a Virtual Machine  blade select the Radius button Allow selected ports
+47.	In the Create a Virtual Machine  blade in the select inbound ports use the drop down menu and select RDP
+48.	In the Create a Virtual Machine  blade select the Radius button Yes in the Save Money section
+49.	Check the box to confirm
+50.	In the Create a Virtual Machine  blade select Networking from the top menu 
+51.	In the Create a Virtual Machine  blade in the Virtual Network section use the drop down men and select StudentX-Vnet2 (where X is your assigned student number). 
+52.	In the Create a Virtual Machine  blade in the Subnet section use the drop down men and select StudentX-Sub2 (where X is your assigned student number). 
+53.	In the Create a Virtual Machine  blade select Management
+54.	In the Create a Virtual Machine  blade in the  Auto-Shutdown section select the Raius button On
+55.	In the Time Zone section select Eastern Time (-5 UTC) 
+56.	In the Create a Virtual Machine  blade select Review + Create
+57.	In the Create a Virtual Machine  blade review your selections click Create
+58.	Close any open blades
 
-2. In the Create virtual network blade type **StudentX-Vnet1** (where X is your student number) in the **Name** field.
-
-3. In the Create virtual network blade type **10.X.0.0/16** is listed in the Address Space field (where X is your student number).
-
-4. In the Resource Group field select the drop down menu and **select** ResStudentX (where X is your student number).
-
-5. In the Create virtual network blade type **StudentX-sub1** (where X is your student number) in the Subnet name field.
-
-6. In the Create virtual network blade type **10.X.X.0/24** (where X is your student number) in the Subnet address range field.
-
-7. In the Create virtual network blade select **Create**.
-
-8. In the Azure Dashboard select your Resource Group **ResStudentX** (where X is your assigned. student number)
-
-9. In the Resource Group blade select **Add** from the top menu In the Everything Blade select **Virtual Network** (Note you may need to search for Virtual Network in the search box at the top)
-
-10. In the Create virtual network blade type **StudentX-Vnet2** (where X is your student number) in the name field.
-
-11. In the Address space field input **172.X.0.0/16**
-
-12. In the Resource Group field select the drop down menu and select **ResStudentX** (where X is your student number).
-
-13. In the Subnet Name field input **StudentX-sub2** (where X is your student number).
-
-14. In the Subnet address range input **172.X.X.0/24**
-
-15. In the Create virtual network blade  **Create**
-
-16. Close any open blades
-
-17. In the Azure Dashboard select your Resource Group **ResStudentX** (where X is your assigned. student number)
-
-18. In the Resource Group from the Overview menu select **StudentX-Vnet2** (where X is your assigned number).
-
-19. In the virtual network blade select **Activity Logs**
-
-20. In the Activity Log select **Create or Update Virtual Network**
-
-![alt text](/Images/azureactivitylogs.png "Azure Activity Logs")
-
-* Note the Azure Activity Logs audit the service actions like creating networks, VMs, etc.
-
-21. Select the **JSON tab** in the lower portion of the browser
-
-* Note this show the Json code that is used to perform that task, this code could be used to create a template in the future.
-
-22. Close all blades
 
 
 Next Module [Virtual Network Peering](networkpeering.md)
