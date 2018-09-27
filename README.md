@@ -70,9 +70,11 @@ With the Site Recovery service, organizations can use the cloud for a number of 
 
 * [Automate Backups for VM's](Modules/backupvm.md)
 
-## Useful Resource Links ##
+## Useful Resources ##
 
 * [Resource Links](Resources/resourcelinks.md)
+* [Resource eBooks](Resources)
+
 
 ## Contributing ##
 
