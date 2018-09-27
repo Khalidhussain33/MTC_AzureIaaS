@@ -8,6 +8,10 @@ We assume you have an Azure Subscription... If you don't, break out your Microso
 * [Visual Studio Dev Essentials Program](https://www.visualstudio.com/dev-essentials/?campaign=VSBlog_AzureXamAnnoucement_VSDE) – Comes with $25 a month of Azure credit for 12 months.
 * [IT Pro Cloud Essentials Program](https://www.microsoft.com/itprocloudessentials/en-US) – Also comes with $25 a month of Azure credit for 12 months.
 
+## Presentation Content ##
+
+Public link to [Slide Deck for Azure IaaS Workshop](Presentations/AzureWorkshop-2.15.pptx)
+
 ## Module 1 - Creating and Managing a Resource Group ##
 
 Resource Groups are ways to logically group various Azure resource.  They can provide a billing boundary, delegation boundary, and can be used in various ways.
@@ -65,6 +69,10 @@ As assets move to the cloud organization have concerns around security and monit
 With the Site Recovery service, organizations can use the cloud for a number of recovery services. Azure works with a number of backup solutions to allow you to store backups in the cloud and use the cloud for site recovery with VM replication.
 
 * [Automate Backups for VM's](Modules/backupvm.md)
+
+## Useful Resource Links ##
+
+* [Resource Links](Resources/resourcelinks.md)
 
 ## Contributing ##
 
